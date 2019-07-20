@@ -1,2 +1,2 @@
-# NewProject
+# Selenium
 Trial-of-Git
